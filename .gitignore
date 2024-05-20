@@ -1,9 +1,10 @@
 .vs/
 Library/
 Logs/
+Temp/
 UserSettings/
 obj/
 
 .vsconfig
 Assembly-CSharp.csproj
-cubi.sln
+rubik-toy.sln
